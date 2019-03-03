@@ -1,0 +1,19 @@
+﻿{
+  "StudentFields": [
+    {
+      "Name": "ID",
+      "Type": "int"
+    },
+    {
+      "Name": "Name",
+      "Type": "string",
+      "Length": "25"
+    },
+    {
+      "Name": "Address",
+      "Type": "string",
+      "Length": "50"
+    }
+
+  ]
+}

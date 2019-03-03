@@ -1,0 +1,29 @@
+﻿{
+  "StudentData": [
+    {
+      "ID": null,
+      "Name": "Student1",
+      "Address": "Address1",
+      "City": "City1"
+    },
+
+    {
+      "ID": null,
+      "Name": "Student2",
+      "Address": "Address2",
+      "City": "City2"
+    },
+    {
+      "ID": null,
+      "Name": "Student3",
+      "Address": "Address3",
+      "City": "City3"
+    },
+    {
+      "ID": null,
+      "Name": "Student4",
+      "Address": "Address4",
+      "City": "City4"
+    }
+  ]
+}

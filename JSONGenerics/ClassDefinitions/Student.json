@@ -1,0 +1,41 @@
+  {
+    "Student": [
+      {
+        "Fields": [
+          {
+            "Name": "ID",
+            "Type": "int"
+          },
+          {
+            "Name": "Name",
+            "Type": "string",
+            "Length": "25"
+          },
+          {
+            "Name": "Address",
+            "Type": "string",
+            "Length": "50"
+          }
+
+        ],
+        "Data": [
+          {
+            "ID": null,
+            "Name": "Student1",
+            "Address": "Address1"
+          },
+
+          {
+            "ID": null,
+            "Name": "Student2",
+            "Address": "Address2"
+          },
+          {
+            "ID": null,
+            "Name": "Student3",
+            "Address": "Address3"
+          }
+        ]
+      }
+    ]
+  }

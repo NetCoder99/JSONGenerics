@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassDefinitions\Student.cs" />
     <Compile Include="ClassDefinitions\StudentData.cs" />
     <Compile Include="ClassDefinitions\StudentFields.cs" />
     <Compile Include="Program.cs" />
